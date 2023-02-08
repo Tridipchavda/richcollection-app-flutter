@@ -1,16 +1,25 @@
-# richcollection
+## Introduction
 
-A new Flutter project.
+Rich Collection is a online Ladies E-commerce shopping App through the Firebase Database. 
 
-## Getting Started
+## Features 
 
-This project is a starting point for a Flutter application.
+- Log-In and Sign-In with Firebase Authentication and Database.
+- Fetch Products Categorically from Database classify on Popular products.
+- Sale and Live Events.
+- Search throughout any product.
+- Cart and Order Status live Tracking.
+- Handling for Multiple Order Placing and Stock.
 
-A few resources to get you started if this is your first Flutter project:
+_Note : Suggested SDK Version 31 for Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A few dependencies to get you started if this is your first Flutter project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Carousel Slider
+- Firebase Fire Store
+- Cloud Firebase
+- Crypto
+- Firebase Auth
+- Quick Alert
+- Flutter Toast
+
